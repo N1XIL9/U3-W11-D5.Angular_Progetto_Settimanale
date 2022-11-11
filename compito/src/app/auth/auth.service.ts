@@ -8,13 +8,15 @@ import { environment } from 'src/environments/environment';
 })
 export class AuthService {
   isLogged = false;
+  userLogged: any;
 
-  constructor(private http: HttpClient) {
-    localStorage.clear();
-  }
+  constructor(private http: HttpClient) {}
 
   signIn(user: User) {
     this.isLogged = true;
+    this.userLogged = JSON.parse(localStorage.getItem('userLogged')!);
+    console.log(this.userLogged);
+
     return this.http.post(environment.urlAPI + 'signin', user);
   }
 

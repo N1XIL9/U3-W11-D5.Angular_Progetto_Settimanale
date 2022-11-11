@@ -1,6 +1,6 @@
 import { HttpClient } from '@angular/common/http';
 import { Component, OnInit } from '@angular/core';
-import { environment } from 'src/environments/environment';
+import { AuthService } from '../auth/auth.service';
 import { User } from '../classes/user.class';
 import { UsersService } from '../users.service';
 
@@ -13,10 +13,9 @@ export class NavbarComponent implements OnInit {
   user!: User;
   users!: User[];
 
-  constructor(private usersService: UsersService, private http: HttpClient) {}
+  constructor(public authService: AuthService, private http: HttpClient) {}
 
   ngOnInit() {
     let userLogged = JSON.parse(localStorage.getItem('userLogged')!);
-    this.usersService.getUser(userLogged.user.id).subscribe((data) => (this.user = data));
   }
 }
