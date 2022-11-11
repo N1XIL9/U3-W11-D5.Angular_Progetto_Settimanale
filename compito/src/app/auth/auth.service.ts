@@ -9,11 +9,16 @@ import { environment } from 'src/environments/environment';
 export class AuthService {
   isLogged = false;
 
-  constructor(private http: HttpClient) {}
+  constructor(private http: HttpClient) {
+    localStorage.clear();
+  }
 
-  signIn(user: User) {}
+  signIn(user: User) {
+    this.isLogged = true;
+    return this.http.post(environment.urlAPI + 'signin', user);
+  }
 
   signUp(user: User) {
-    return this.http.post(environment.urlAPI + 'signup', user);
+    return this.http.post(environment.urlAPI + 'users', user);
   }
 }

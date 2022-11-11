@@ -1,5 +1,39 @@
 {
   "users": [
-
+    {
+      "email": "nicolalerra@gmail.com",
+      "password": "$2a$10$KfZhF/1z.rHMHOFpu5CdKeZwuZ5U9URSQIpNADCdFjuG6/bQGDQYy",
+      "name": "Nicola",
+      "surname": "Lerra",
+      "id": 1
+    },
+    {
+      "email": "vaffanculo@gmail.com",
+      "password": "$2a$10$qWt7bP1VCZFZ1vDhOLDXt.ZHUfRZodTs64UYCHn108bVxmteDftki",
+      "name": "Nicola",
+      "surname": "Lerra",
+      "id": 2
+    },
+    {
+      "email": "catroia@gmail.com",
+      "password": "$2a$10$gK7y1jfHG5Kd7xr/ELI1eOFdbAk5CwOBvmF1p1Q8LBIM7wggWkZR.",
+      "name": "Nicola",
+      "surname": "Lerra",
+      "id": 3
+    },
+    {
+      "email": "bo@gmail.com",
+      "password": "$2a$10$TSMb35ly4TA2TTQ7YTMXcOylii7A6/KhY2/6bLN2MMXFm3pqV7YSq",
+      "name": "Nicola",
+      "surname": "Lerra",
+      "id": 4
+    },
+    {
+      "email": "mar@gmail.com",
+      "password": "$2a$10$uagEODn2Cj3Y2sGZyTTCQuB1ZfTOmrK4.1GuA9v74wWdFENmsqEoa",
+      "name": "mario",
+      "surname": "minchia",
+      "id": 5
+    }
   ]
 }

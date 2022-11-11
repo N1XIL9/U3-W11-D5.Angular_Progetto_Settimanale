@@ -4,6 +4,7 @@ import { LoginPage } from './login/login.page';
 import { SignupPage } from './signup/signup.page';
 import { RouterModule, Routes } from '@angular/router';
 import { FormsModule } from '@angular/forms';
+import { HttpClientModule } from '@angular/common/http';
 
 const routes: Routes = [
   {
@@ -18,6 +19,7 @@ const routes: Routes = [
 
 @NgModule({
   declarations: [LoginPage, SignupPage],
-  imports: [CommonModule, RouterModule.forChild(routes), FormsModule],
+  imports: [CommonModule, RouterModule.forChild(routes), FormsModule, HttpClientModule],
+  exports: [LoginPage, SignupPage],
 })
 export class AuthModule {}
