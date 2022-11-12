@@ -3,4 +3,5 @@ export class Movies {
   Year?: string;
   Runtime?: string;
   Poster?: string;
+  Plot?: string;
 }
