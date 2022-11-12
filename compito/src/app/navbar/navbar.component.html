@@ -1,6 +1,6 @@
-<header class="p-3 text-bg-dark">
+<header class="p-3">
   <div class="container">
-    <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start">
+    <div class="d-flex flex-wrap align-items-center justify-content-center justify-content-lg-start mt-3">
       <a href="/" class="d-flex align-items-center mb-2 mb-lg-0 text-white text-decoration-none">
         <svg class="bi me-2" width="40" height="32" role="img" aria-label="Bootstrap"><use xlink:href="#bootstrap"></use></svg>
       </a>
@@ -8,7 +8,7 @@
       <ul class="nav col-12 col-lg-auto me-md-auto mb-2 justify-content-center mb-md-0">
         <li [routerLink]="['/home']">
           <a class="navbar-brand" href="#">
-            <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logonetflix.png" alt="" width="120" height="35" />
+            <img src="https://upload.wikimedia.org/wikipedia/commons/7/7a/Logonetflix.png" alt="" width="160" height="55" />
           </a>
         </li>
 
@@ -19,17 +19,12 @@
         <li><a href="#" class="nav-link px-2 text-white">About</a></li>  -->
       </ul>
 
-      <!-- <form class="col-12 col-lg-auto mb-3 mb-lg-0 me-lg-3" role="search">
-        <input type="search" class="form-control form-control-dark text-bg-dark" placeholder="Search..." aria-label="Search">
-      </form> -->
-
+      <div id="id-name" *ngIf="this.authService.userLogged">Ciao {{ this.authService.userLogged.user.name }}</div>
       <div class="text-end">
-        <div *ngIf="this.authService.userLogged">Ciao {{ this.authService.userLogged.user.name }}</div>
-
-        <button [routerLink]="['/signup']" routerLinkActive="router link active" type="button" class="btn btn-outline-light me-2">
-          Sign-up
+        <button [routerLink]="['/signup']" routerLinkActive="router link active" type="button" class="btn btn-outline-dark text-light me-2">
+          Registrati
         </button>
-        <button [routerLink]="['/login']" routerLinkActive="router link active" type="button" class="btn btn-danger me-2">Login</button>
+        <button [routerLink]="['/login']" routerLinkActive="router link active" type="button" class="btn btn-danger me-2">Accedi</button>
       </div>
     </div>
   </div>

@@ -1,0 +1,21 @@
+.conainer-fluid {
+  position: fixed;
+}
+
+.title-flex {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  height: 80vh;
+  h1 {
+    color: white;
+    font-size: 4rem;
+    text-align: center;
+  }
+
+  p {
+    color: white;
+    font-size: 1.4rem;
+    text-align: center;
+  }
+}

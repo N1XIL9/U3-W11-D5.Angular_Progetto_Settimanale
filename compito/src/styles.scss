@@ -1,4 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
 
 /* Importing Bootstrap SCSS file. */
-@import '~bootstrap/scss/bootstrap';
+@import "~bootstrap/scss/bootstrap";
+
+body {
+  background-image: linear-gradient(to bottom, transparent -26%, black 100%),
+    url("https://assets.nflxext.com/ffe/siteui/vlv3/0ef67cc5-0aa7-47cf-87bd-7f595afc7cfb/19338171-6bcc-41d4-9094-dda59cfe2f6a/IT-it-20221107-popsignuptwoweeks-perspective_alpha_website_small.jpg");
+  background-repeat: no-repeat;
+  background-size: cover;
+  box-shadow: inset 0 0 20em 6em #000;
+  height: 100vh;
+}
