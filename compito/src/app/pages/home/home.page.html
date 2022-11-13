@@ -14,11 +14,13 @@
   </div>
 </div> -->
 
-<div *ngFor="let movie of movies" class="card" style="width: 10rem">
-  <img src="{{movie.Poster}}" class="card-img-top" alt="..." />
-  <!-- <div class="card-body">
+<div class="cont-flex">
+  <div *ngFor="let movie of movies" class="card" style="width: 10rem">
+    <img src="{{movie.Poster}}" class="card-img-top" alt="..." />
+    <!-- <div class="card-body">
     <p class="card-text">{{movie.Title}}</p>
   </div> -->
+  </div>
 </div>
 
 <!-- <div *ngFor="let movie of movies" class="card text-bg-dark">

@@ -8,39 +8,11 @@
       "id": 1
     },
     {
-      "email": "vaffanculo@gmail.com",
-      "password": "$2a$10$qWt7bP1VCZFZ1vDhOLDXt.ZHUfRZodTs64UYCHn108bVxmteDftki",
-      "name": "Nicola",
-      "surname": "Lerra",
+      "email": "mr@gmail.com",
+      "password": "$2a$10$V/fNpeOIM/BDWWd2viB9Buv9Frew83vEOC6xsAXAODdhqCORvp/du",
+      "name": "Mario",
+      "surname": "Rossi",
       "id": 2
-    },
-    {
-      "email": "catroia@gmail.com",
-      "password": "$2a$10$gK7y1jfHG5Kd7xr/ELI1eOFdbAk5CwOBvmF1p1Q8LBIM7wggWkZR.",
-      "name": "Nicola",
-      "surname": "Lerra",
-      "id": 3
-    },
-    {
-      "email": "bo@gmail.com",
-      "password": "$2a$10$TSMb35ly4TA2TTQ7YTMXcOylii7A6/KhY2/6bLN2MMXFm3pqV7YSq",
-      "name": "Nicola",
-      "surname": "Lerra",
-      "id": 4
-    },
-    {
-      "email": "mar@gmail.com",
-      "password": "$2a$10$uagEODn2Cj3Y2sGZyTTCQuB1ZfTOmrK4.1GuA9v74wWdFENmsqEoa",
-      "name": "mario",
-      "surname": "minchia",
-      "id": 5
-    },
-    {
-      "email": "giuseppelerra@gmail.com",
-      "password": "$2a$10$Z1hPCRhjECqZreQD.UOIzOBBCgZsmH2ivxlcIKgdQxgiIUfqgDJ1O",
-      "name": "Giuseppe ",
-      "surname": "Lerra",
-      "id": 6
     }
   ],
   "movies": [
@@ -58,7 +30,7 @@
       "Language": "English, Spanish",
       "Country": "USA, UK",
       "Awards": "Won 3 Oscars. Another 80 wins & 121 nominations.",
-      "Poster": "https://m.media-amazon.com/images/I/51QLmir9+JL._AC_.jpg",
+      "Poster": "https://i.pinimg.com/564x/a0/f9/2e/a0f92eb5b7a06e0f11d283ecf3c5108e.jpg",
       "Metascore": "83",
       "imdbRating": "7.9",
       "imdbVotes": "890,617",
@@ -200,7 +172,7 @@
       "Language": "English",
       "Country": "USA, UK",
       "Awards": "Won 1 Oscar. Another 39 wins & 134 nominations.",
-      "Poster": "https://m.media-amazon.com/images/I/61iyi8V4ojL._AC_SL1058_.jpg",
+      "Poster": "https://m.media-amazon.com/images/I/71DS+Oc7NIL._AC_SL1500_.jpg",
       "Metascore": "74",
       "imdbRating": "8.6",
       "imdbVotes": "937,412",
@@ -259,7 +231,7 @@
       "Language": "English, Old English, Norse, Old, Latin",
       "Country": "Ireland, Canada",
       "Awards": "Nominated for 7 Primetime Emmys. Another 17 wins & 49 nominations.",
-      "Poster": "https://m.media-amazon.com/images/I/71fEyV-lcmL._AC_SL1500_.jpg",
+      "Poster": "https://i.pinimg.com/564x/ab/f0/8b/abf08bf0b0e340773f9b732e31c68585.jpg",
       "Metascore": "N/A",
       "imdbRating": "8.6",
       "imdbVotes": "198,041",
@@ -333,6 +305,126 @@
         "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk0MTI0NzQ2NV5BMl5BanBnXkFtZTgwMDkxODA5NTE@._V1_SY1000_SX1500_AL_.jpg",
         "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ4Mzk1ODcxM15BMl5BanBnXkFtZTgwNDQyODA5NTE@._V1_SY1000_SX1500_AL_.jpg",
         "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUwNTE0NDI1M15BMl5BanBnXkFtZTgwMDQyODA5NTE@._V1_SY1000_SX1500_AL_.jpg"
+      ]
+    },
+    {
+      "Title": "Narcos",
+      "Year": "2015–",
+      "Rated": "TV-MA",
+      "Released": "28 Aug 2015",
+      "Runtime": "49 min",
+      "Genre": "Biography, Crime, Drama",
+      "Director": "N/A",
+      "Writer": "Carlo Bernard, Chris Brancato, Doug Miro, Paul Eckstein",
+      "Actors": "Wagner Moura, Boyd Holbrook, Pedro Pascal, Joanna Christie",
+      "Plot": "A chronicled look at the criminal exploits of Colombian drug lord Pablo Escobar.",
+      "Language": "English, Spanish",
+      "Country": "USA",
+      "Awards": "Nominated for 2 Golden Globes. Another 4 nominations.",
+      "Poster": "https://cdn.shopify.com/s/files/1/0265/2769/4934/products/narcos_xlg_1024x1024@2x.jpg?v=1584379581",
+      "Metascore": "N/A",
+      "imdbRating": "8.9",
+      "imdbVotes": "118,680",
+      "imdbID": "tt2707408",
+      "Type": "series",
+      "totalSeasons": "2",
+      "Response": "True",
+       "Images": [
+        "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk2MDMzMTc0MF5BMl5BanBnXkFtZTgwMTAyMzA1OTE@._V1_SX1500_CR0,0,1500,999_AL_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxMDkyOTEyNV5BMl5BanBnXkFtZTgwNjY3Mjc3OTE@._V1_SY1000_SX1500_AL_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA2NDUwMTU2NV5BMl5BanBnXkFtZTgwNTI1Mzc3OTE@._V1_SY1000_CR0,0,1499,1000_AL_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/M/MV5BODA1NjAyMTQ3Ml5BMl5BanBnXkFtZTgwNjI1Mzc3OTE@._V1_SY1000_CR0,0,1499,1000_AL_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU0NzQ0OTAwNl5BMl5BanBnXkFtZTgwMDAyMzA1OTE@._V1_SX1500_CR0,0,1500,999_AL_.jpg"
+      ]
+    },{
+      "Title": "Breaking Bad",
+      "Year": "2008–2013",
+      "Rated": "TV-14",
+      "Released": "20 Jan 2008",
+      "Runtime": "49 min",
+      "Genre": "Crime, Drama, Thriller",
+      "Director": "N/A",
+      "Writer": "Vince Gilligan",
+      "Actors": "Bryan Cranston, Anna Gunn, Aaron Paul, Dean Norris",
+      "Plot": "A high school chemistry teacher diagnosed with inoperable lung cancer turns to manufacturing and selling methamphetamine in order to secure his family's financial future.",
+      "Language": "English, Spanish",
+      "Country": "USA",
+      "Awards": "Won 2 Golden Globes. Another 132 wins & 218 nominations.",
+      "Poster": "https://m.media-amazon.com/images/I/81QtuaZN7JL._AC_SL1500_.jpg",
+      "Metascore": "N/A",
+      "imdbRating": "9.5",
+      "imdbVotes": "889,883",
+      "imdbID": "tt0903747",
+      "Type": "series",
+      "totalSeasons": "5",
+      "Response": "True",
+      "Images": [
+        "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgyMzI5NDc5Nl5BMl5BanBnXkFtZTgwMjM0MTI2MDE@._V1_SY1000_CR0,0,1498,1000_AL_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/M/MV5BMTQ2NDkwNDk5NV5BMl5BanBnXkFtZTgwNDM0MTI2MDE@._V1_SY1000_CR0,0,1495,1000_AL_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/M/MV5BMTM4NDcyNDMzMF5BMl5BanBnXkFtZTgwOTI0MTI2MDE@._V1_SY1000_CR0,0,1495,1000_AL_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/M/MV5BMTAzMTczMjM3NjFeQTJeQWpwZ15BbWU4MDc1MTI1MzAx._V1_SY1000_CR0,0,1495,1000_AL_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA5MTE3MTgwMF5BMl5BanBnXkFtZTgwOTQxMjUzMDE@._V1_SX1500_CR0,0,1500,999_AL_.jpg"
+      ]
+    },
+    {
+
+      "Title": "Luke Cage",
+      "Year": "2016–",
+      "Rated": "TV-MA",
+      "Released": "30 Sep 2016",
+      "Runtime": "55 min",
+      "Genre": "Action, Crime, Drama",
+      "Director": "N/A",
+      "Writer": "Cheo Hodari Coker",
+      "Actors": "Mahershala Ali, Mike Colter, Frankie Faison, Erik LaRay Harvey",
+      "Plot": "Given superstrength and durability by a sabotaged experiment, a wrongly accused man escapes prison to become a superhero for hire.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "N/A",
+      "Poster": "https://m.media-amazon.com/images/I/71xby-zAr7L._AC_SL1024_.jpg",
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt3322314",
+      "Type": "series",
+      "totalSeasons": "1",
+      "Response": "True",
+      "Images": [
+        "https://images-na.ssl-images-amazon.com/images/M/MV5BMjMxNjc1NjI0NV5BMl5BanBnXkFtZTgwNzA0NzY0ODE@._V1_SY1000_CR0,0,1497,1000_AL_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/M/MV5BMjI1MDg3NjY2OF5BMl5BanBnXkFtZTgwNDE1NDU4OTE@._V1_SY1000_CR0,0,1497,1000_AL_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/M/MV5BOTYzOTQyNDYxNl5BMl5BanBnXkFtZTgwNzA1NDU4OTE@._V1_SY1000_CR0,0,1498,1000_AL_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/M/MV5BMTgxMjA3MTQ5Ml5BMl5BanBnXkFtZTgwOTA1NDU4OTE@._V1_SY1000_CR0,0,1498,1000_AL_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/M/MV5BMjMyNjg5ODYwNF5BMl5BanBnXkFtZTgwMTE1NDU4OTE@._V1_SY1000_CR0,0,1477,1000_AL_.jpg"
+      ]
+    },
+    {
+
+      "Title": "Rogue One: A Star Wars Story",
+      "Year": "2016",
+      "Rated": "N/A",
+      "Released": "16 Dec 2016",
+      "Runtime": "N/A",
+      "Genre": "Action, Adventure, Sci-Fi",
+      "Director": "Gareth Edwards",
+      "Writer": "Chris Weitz (screenplay), Tony Gilroy (screenplay), John Knoll (story), Gary Whitta (story), George Lucas (characters)",
+      "Actors": "Felicity Jones, Riz Ahmed, Mads Mikkelsen, Ben Mendelsohn",
+      "Plot": "The Rebellion makes a risky move to steal the plans to the Death Star, setting up the epic saga to follow.",
+      "Language": "English",
+      "Country": "USA",
+      "Awards": "1 nomination.",
+      "Poster": "https://starwarsblog.starwars.com/wp-content/uploads/2016/10/R1_Character_1Sht_Jyn_v2_Lg.jpg",
+      "Metascore": "N/A",
+      "imdbRating": "N/A",
+      "imdbVotes": "N/A",
+      "imdbID": "tt3748528",
+      "Type": "movie",
+      "Response": "True",
+      "Images": [
+        "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE3MzA4Nzk3NV5BMl5BanBnXkFtZTgwNjAxMTc1ODE@._V1_SX1777_CR0,0,1777,744_AL_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/M/MV5BNDMxMTQzMjQxM15BMl5BanBnXkFtZTgwNzAxMTc1ODE@._V1_SX1777_CR0,0,1777,744_AL_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/M/MV5BMTUyNjkxOTk5NV5BMl5BanBnXkFtZTgwODAxMTc1ODE@._V1_SX1777_CR0,0,1777,744_AL_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/M/MV5BNjM4MzExNDAyNl5BMl5BanBnXkFtZTgwOTAxMTc1ODE@._V1_SX1777_CR0,0,1777,744_AL_.jpg",
+        "https://images-na.ssl-images-amazon.com/images/M/MV5BMjE3NTgxMDcyNV5BMl5BanBnXkFtZTgwMDExMTc1ODE@._V1_SX1777_CR0,0,1777,744_AL_.jpg"
       ]
     }
   ]

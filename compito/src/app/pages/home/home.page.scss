@@ -1,1 +1,21 @@
+.cont-flex {
+  position: fixed;
+  display: flex;
+  flex-wrap: wrap;
 
+  justify-content: center;
+  padding: 86px;
+  background-color: #000000ed;
+  overflow-y: scroll;
+  max-height: 100%;
+
+  h1 {
+    color: white;
+  }
+}
+
+.card {
+  cursor: pointer;
+  background-color: black;
+  margin-right: 10px;
+}
