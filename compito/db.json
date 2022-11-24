@@ -13,6 +13,13 @@
       "name": "Mario",
       "surname": "Rossi",
       "id": 2
+    },
+    {
+      "email": "maria@gmail.com",
+      "password": "$2a$10$6E4DPR8wSWHrT0c158ZFnuACBHPB2Cjfr1fFEC9X4mU8zS6Hotr0u",
+      "name": "maria",
+      "surname": "maria",
+      "id": 3
     }
   ],
   "movies": [
@@ -37,7 +44,7 @@
       "imdbID": "tt0499549",
       "Type": "movie",
       "Response": "True",
-      "trailer":"https://www.youtube.com/watch?v=3CQ0HsGZzM4",
+      "trailer": "https://www.youtube.com/watch?v=3CQ0HsGZzM4",
       "Images": [
         "https://images-na.ssl-images-amazon.com/images/M/MV5BMjEyOTYyMzUxNl5BMl5BanBnXkFtZTcwNTg0MTUzNA@@._V1_SX1500_CR0,0,1500,999_AL_.jpg",
         "https://images-na.ssl-images-amazon.com/images/M/MV5BNzM2MDk3MTcyMV5BMl5BanBnXkFtZTcwNjg0MTUzNA@@._V1_SX1777_CR0,0,1777,999_AL_.jpg",
@@ -330,14 +337,15 @@
       "Type": "series",
       "totalSeasons": "2",
       "Response": "True",
-       "Images": [
+      "Images": [
         "https://images-na.ssl-images-amazon.com/images/M/MV5BMTk2MDMzMTc0MF5BMl5BanBnXkFtZTgwMTAyMzA1OTE@._V1_SX1500_CR0,0,1500,999_AL_.jpg",
         "https://images-na.ssl-images-amazon.com/images/M/MV5BMjIxMDkyOTEyNV5BMl5BanBnXkFtZTgwNjY3Mjc3OTE@._V1_SY1000_SX1500_AL_.jpg",
         "https://images-na.ssl-images-amazon.com/images/M/MV5BMjA2NDUwMTU2NV5BMl5BanBnXkFtZTgwNTI1Mzc3OTE@._V1_SY1000_CR0,0,1499,1000_AL_.jpg",
         "https://images-na.ssl-images-amazon.com/images/M/MV5BODA1NjAyMTQ3Ml5BMl5BanBnXkFtZTgwNjI1Mzc3OTE@._V1_SY1000_CR0,0,1499,1000_AL_.jpg",
         "https://images-na.ssl-images-amazon.com/images/M/MV5BMTU0NzQ0OTAwNl5BMl5BanBnXkFtZTgwMDAyMzA1OTE@._V1_SX1500_CR0,0,1500,999_AL_.jpg"
       ]
-    },{
+    },
+    {
       "Title": "Breaking Bad",
       "Year": "2008–2013",
       "Rated": "TV-14",
@@ -368,7 +376,6 @@
       ]
     },
     {
-
       "Title": "Luke Cage",
       "Year": "2016–",
       "Rated": "TV-MA",
@@ -399,7 +406,6 @@
       ]
     },
     {
-
       "Title": "Rogue One: A Star Wars Story",
       "Year": "2016",
       "Rated": "N/A",
