@@ -20,6 +20,13 @@
       "name": "maria",
       "surname": "maria",
       "id": 3
+    },
+    {
+      "email": "nl@gmail.com",
+      "password": "$2a$10$i0XJ3xpUDRGkYAEnErrnwOOvcxB0SOPygFkCC4Ne6JQEPOI2Gt./m",
+      "name": "Nicola",
+      "surname": "Lerra",
+      "id": 4
     }
   ],
   "movies": [
