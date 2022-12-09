@@ -27,6 +27,13 @@
       "name": "Nicola",
       "surname": "Lerra",
       "id": 4
+    },
+    {
+      "email": "nlerra@gmail.com",
+      "password": "$2a$10$D8GRqlt/cq71IglpFNYcHuZMmhUoXRi7F5dpiarhkxFQ/vLcZmjNS",
+      "name": "Nicola",
+      "surname": "Lerra",
+      "id": 5
     }
   ],
   "movies": [
